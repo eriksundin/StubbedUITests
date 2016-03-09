@@ -1,0 +1,46 @@
+{
+    "results": [
+                {
+                "utc_offset": 3600000,
+                "rsvp_limit": 80,
+                "headcount": 0,
+                "visibility": "public",
+                "waitlist_count": 34,
+                "created": 1456817329000,
+                "maybe_rsvp_count": 0,
+                "description": "Test Description",
+                "event_url": "http:\/\/www.meetup.com\/CocoaHeads-Stockholm\/events\/229249840\/",
+                "yes_rsvp_count": 80,
+                "duration": 9000000,
+                "name": "Test Meetup",
+                "id": "229249840",
+                "time": 1451651820000,
+                "updated": 1456817695000,
+                "group": {
+                "join_mode": "open",
+                "created": 1343681778000,
+                "name": "CocoaHeads Stockholm",
+                "group_lon": 18.069999694824,
+                "id": 4429322,
+                "urlname": "CocoaHeads-Stockholm",
+                "group_lat": 59.330001831055,
+                "who": "Members"
+                },
+                "status": "upcoming"
+                }
+                ],
+    "meta": {
+        "next": "https:\/\/api.meetup.com\/2\/events?offset=1&sign=True&format=json&limited_events=False&group_urlname=CocoaHeads-Stockholm&photo-host=public&page=1&fields=&order=time&status=upcoming%2Cpast&desc=desc",
+        "method": "Events",
+        "total_count": 39,
+        "link": "https:\/\/api.meetup.com\/2\/events",
+        "count": 1,
+        "description": "Access Meetup events using a group, member, or event id. Events in private groups are available only to authenticated members of those groups. To search events by topic or location, see [Open Events](\/meetup_api\/docs\/2\/open_events).",
+        "lon": "",
+        "title": "Meetup Events v2",
+        "url": "https:\/\/api.meetup.com\/2\/events?offset=0&sign=True&format=json&limited_events=False&group_urlname=CocoaHeads-Stockholm&photo-host=public&page=1&fields=&order=time&status=upcoming%2Cpast&desc=desc",
+        "id": "",
+        "updated": 1456817695000,
+        "lat": ""
+    }
+}
